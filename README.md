@@ -1,2 +1,2 @@
-# integeroverflow
-integer overflow ve tur donusturme
+# numerictypeconversions
+tur donusturme ve integer overflow
